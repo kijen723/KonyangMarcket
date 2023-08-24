@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "에어팟 프로",
+      "provider": "쌍용동참새",
+      "price": 130000,
+      "image": "/images/image001.png"
+    },
+    {
+      "id": 2,
+      "name": "신라면 20봉지",
+      "provider": "안양불주먹",
+      "price": 10000,
+      "image": "/images/image002.png"
+    },
+    {
+      "id": 3,
+      "name": "갤럭시 탭 10",
+      "provider": "논산땅부자",
+      "price": 200000,
+      "image": "/images/image003.png"
+    },
+    {
+      "id": 4,
+      "name": "가습기",
+      "provider": "웰빙 가전",
+      "price": 11900,
+      "image": "/images/image004.png"
+    },
+    {
+      "id": 5,
+      "name": "삼촌이 직접키운 당근",
+      "provider": "논산JOY",
+      "price": 100,
+      "image": "/images/image005.png"
+    },
+    {
+      "id": 6,
+      "name": "LED 유선 마우스",
+      "provider": "보물보따리",
+      "price": 50000,
+      "image": "/images/image006.png"
+    },
+    {
+      "id": 7,
+      "name": "스팸 500g 7개",
+      "provider": "이태원 프리덤",
+      "price": 30000,
+      "image": "/images/image007.png"
+    },
+    {
+      "id": 8,
+      "name": "무소음 무선 마우스",
+      "provider": "우당탕탕",
+      "price": 7000,
+      "image": "/images/image008.png"
+    }
+  ]
+}
